@@ -205,62 +205,71 @@ final developer = Developer(
 
 </div>
 
+</div>
+
 <div align="center">
 
-### ⚡ Tech Stack
+# ⚡ Tech Arsenal
+
+<br/>
+
+## 📱 Mobile & Frontend
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java&theme=dark" height="70"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Bloc_State_Management-7C3AED?style=for-the-badge&logo=dart&logoColor=white" height="35"/>
 
 ---
 
-### 📱 Mobile & Frontend
+## ⚙️ Backend & APIs
 
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=46D1FD)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00B4AB)
-![Bloc](https://img.shields.io/badge/Bloc-0d1117?style=for-the-badge&logo=dart&logoColor=8A2BE2)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F89820)
+<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" height="70"/>
 
 ---
 
-### ⚙️ Backend & APIs
+## ☁️ Cloud & Deployment
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3ECF8E)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+<img src="https://skillicons.dev/icons?i=gcp,firebase,supabase,vercel&theme=dark" height="70"/>
 
----
+<br/><br/>
 
-### ☁️ Cloud & Deployment
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+<img src="https://img.shields.io/badge/AWS_Rekognition-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="35"/>
 
 ---
 
-### 🗄️ Databases & Storage
+## 🗄️ Databases & Storage
 
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Hive](https://img.shields.io/badge/Hive-0d1117?style=for-the-badge&logo=hive&logoColor=FF6F00)
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="70"/>
 
----
+<br/><br/>
 
-### 🔗 Google APIs & Services
-
-![ML Kit](https://img.shields.io/badge/ML_Kit-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
-![Drive API](https://img.shields.io/badge/Drive_API-0d1117?style=for-the-badge&logo=googledrive&logoColor=34A853)
-![Google Maps](https://img.shields.io/badge/Maps_SDK-0d1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335)
-![AdMob](https://img.shields.io/badge/AdMob-0d1117?style=for-the-badge&logo=google&logoColor=EA4335)
-![AdSense](https://img.shields.io/badge/AdSense-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
+<img src="https://img.shields.io/badge/Hive_Local_DB-FF6F00?style=for-the-badge&logo=hive&logoColor=white" height="35"/>
 
 ---
 
-### 🧠 Languages & Core
+## 🔗 Google Ecosystem
 
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+<img src="https://skillicons.dev/icons?i=google&theme=dark" height="70"/>
 
-</div>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Drive_API-34A853?style=for-the-badge&logo=googledrive&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Maps_SDK-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/AdSense-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
+
+---
+
+## 🧠 Core Strength
+
+<img src="https://skillicons.dev/icons?i=c&theme=dark" height="70"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LeetCode_200+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
 
 </div>
 
