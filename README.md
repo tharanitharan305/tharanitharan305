@@ -37,8 +37,18 @@ final developer = Developer(
   leetcodeSolved: 200,
   stack: ["Flutter", "Node.js", "Firebase", "Supabase", "MySQL"],
   languages: ["Dart", "JavaScript", "Java", "C"],
+  stateManagement: "Bloc — across every production app",
+  cloud: ["Google Cloud APIs", "AWS Rekognition", "Firebase", "Supabase"],
+  deployment: ["Vercel", "Google Play Store", "Flutter Web"],
+  tools: [
+    "Google Drive API", "Google Cloud Storage",
+    "AWS Face Rekognition", "Google ML Kit",
+    "AdMob", "AdSense", "Google Maps SDK",
+    "Hive (local DB)", "Bloc", "REST APIs",
+  ],
   strengths: ["DSA", "OOP", "Scalable Architecture", "Real-world Products"],
   currentlyBuilding: "HTML → JSON Rendering Engine",
+  openSourcePackages: ["super_string_utils", "tamil_pdf_shaper"],
   openSource: true,
 );
 ```
@@ -59,19 +69,22 @@ final developer = Developer(
 
 ### 🧾 Thuliyam — Billing App
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Hive](https://img.shields.io/badge/Hive-FF6F00?style=flat-square&logo=hive&logoColor=white)](https://pub.dev/packages/hive)
+[![Bloc](https://img.shields.io/badge/Bloc-7C3AED?style=flat-square&logo=dart&logoColor=white)](https://bloclibrary.dev)
 [![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=google&logoColor=white)](https://admob.google.com)
 
-> Production-grade billing solution with enterprise features
+> Production-grade billing app — live on Play Store
 
-- ☁️ **Google Drive** Backup & Restore
-- 💳 **UPI Payment** (auto amount + ID redirect)
-- 📷 **Scanner** Integration
-- 💰 **AdMob** Monetization
-- 🔒 **Premium** Feature System
+- ☁️ **Google Cloud Drive API** Backup & Restore (not Firebase)
+- 🗄️ **Hive** for fast, offline-first local storage
+- 📊 **Analytics** dashboard with business insights
+- 💳 **UPI Payment** auto amount + ID redirect
+- 📷 **Scanner** integration · 🔒 **Premium** system
+- 💰 **AdMob** monetization
 
 [![Live App](https://img.shields.io/badge/▶_Play_Store_Beta-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/apps/internaltest/4701521532935142322)
-[![Details](https://img.shields.io/badge/Project_Details-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://tharanitharan.dev/projects/thuliyam/)
+[![Web Preview](https://img.shields.io/badge/🌐_Live_Web_Build-7C3AED?style=for-the-badge&logo=flutter&logoColor=white)](https://tharanitharan.dev/projects/thuliyam/)
 
 </td>
 <td width="50%" valign="top">
@@ -98,20 +111,22 @@ final developer = Developer(
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Bloc](https://img.shields.io/badge/Bloc-7C3AED?style=flat-square&logo=dart&logoColor=white)](https://bloclibrary.dev)
 
-> Real-time billing system built for wholesale efficiency
+> Mobile ↔ Desktop seamless billing ecosystem
 
-- 📊 **Real-time billing** & weekly analytics
-- 🧠 Scalable **Bloc** state management
-- ⚡ Optimized UI that **cut billing time significantly**
-- 📈 Weekly analytics dashboard for business insights
+- 📱➡️🖥️ **Seamless bill transfer** from mobile → desktop
+- 🖨️ **Direct print** to hardware printers from desktop
+- 🇹🇦 **Tamil PDF** generation via own `tamil_pdf_shaper`
+- 📊 **Real-time billing** & weekly analytics dashboard
+- 🧠 **Bloc** state management across mobile + desktop
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ HTML → JSON Rendering Engine *(Current)*
+### ⚙️ HTML → JSON Rendering Engine *(Active)*
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Bloc](https://img.shields.io/badge/Bloc-7C3AED?style=flat-square&logo=dart&logoColor=white)](https://bloclibrary.dev)
 
 > Converting the web's lingua franca into Flutter-native UI
 
@@ -119,6 +134,25 @@ final developer = Developer(
 - 🌐 **Express API** exposing JSON schema endpoints
 - 📱 **Flutter renderer** using OOP-driven model architecture
 - 🔄 Dynamic UI rendering from remote JSON sources
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 Event Attendance — Face & QR System
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/rekognition/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Bloc](https://img.shields.io/badge/Bloc-7C3AED?style=flat-square&logo=dart&logoColor=white)](https://bloclibrary.dev)
+
+> AI-powered dual-mode attendance — face or QR, zero friction
+
+- 📸 **Live camera** captures face / QR dynamically in-app
+- 🤖 **AWS Rekognition** matches face against registered index
+- 📲 **QR scan** → instant attendance via REST API
+- ⚡ **Bloc** manages camera, recognition & attendance state
+- 🔐 Secure **REST API** backend for attendance records
 
 </td>
 </tr>
@@ -182,6 +216,7 @@ final developer = Developer(
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Bloc](https://img.shields.io/badge/Bloc_State_Mgmt-7C3AED?style=for-the-badge&logo=dart&logoColor=white)](https://bloclibrary.dev)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
 
 **Backend & APIs**
@@ -190,15 +225,23 @@ final developer = Developer(
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 
-**Databases & BaaS**
+**Cloud & Deployment**
 
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/rekognition/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)](https://supabase.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
-**Google Ecosystem**
+**Databases & Storage**
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![Hive](https://img.shields.io/badge/Hive_(Local_DB)-FF6F00?style=for-the-badge&logo=hive&logoColor=white)](https://pub.dev/packages/hive)
+
+**Google APIs & Services**
 
 [![Google ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/ml-kit)
+[![Google Drive API](https://img.shields.io/badge/Drive_API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://developers.google.com/drive)
 [![Google Maps](https://img.shields.io/badge/Maps_SDK-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://developers.google.com/maps)
 [![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleadmob&logoColor=white)](https://admob.google.com)
 [![AdSense](https://img.shields.io/badge/AdSense-4285F4?style=for-the-badge&logo=googleadsense&logoColor=white)](https://adsense.google.com)
@@ -218,37 +261,116 @@ final developer = Developer(
 
 </div>
 
+<div align="center">
+
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                          CAREER TIMELINE                                │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│  🟣  Blended Pedagogy                              Jan 2026 – Present   │
-│      Software Developer · Coimbatore                                    │
-│      Flutter · Full-stack product development                           │
-│                                                                         │
-│  🔵  BeeZet                                        May 2025 – Dec 2025  │
-│      Flutter Developer · Remote                                         │
-│      Dynamic web platform · PHP · MySQL · Admin Dashboard               │
-│                                                                         │
-│  🟢  Whiter Apps                                   Jan 2025 – May 2025  │
-│      Flutter Intern · Remote                                            │
-│      Production app development · Firebase · Bloc                      │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+                    ╔══════════════════════════════════════╗
+                    ║         ENGINEERING JOURNEY          ║
+                    ╚══════════════════════════════════════╝
 ```
+
+</div>
+
+<table align="center" width="85%">
+<tr>
+<td align="center" width="18%">
+
+**`2026`**<br/>**`→ NOW`**
+
+</td>
+<td align="center" width="4%">
+
+```
+ ┃
+ ◉
+ ┃
+```
+
+</td>
+<td width="78%">
+
+**🟣 Blended Pedagogy** &nbsp;·&nbsp; `Software Developer` &nbsp;·&nbsp; Coimbatore<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-7C3AED?style=flat-square&logo=dart&logoColor=white) ![Full-Stack](https://img.shields.io/badge/Full--Stack-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br/>
+*Building production Flutter apps · Full-stack product ownership*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**`2025`**<br/>**`May–Dec`**
+
+</td>
+<td align="center">
+
+```
+ ┃
+ ◉
+ ┃
+```
+
+</td>
+<td>
+
+**🔵 BeeZet** &nbsp;·&nbsp; `Flutter Developer` &nbsp;·&nbsp; Remote<br/>
+![Flutter Web](https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br/>
+*Dynamic web platform · REST API design · Admin dashboard architecture*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**`2025`**<br/>**`Jan–May`**
+
+</td>
+<td align="center">
+
+```
+ ┃
+ ◉
+ ┃
+```
+
+</td>
+<td>
+
+**🟢 Whiter Apps** &nbsp;·&nbsp; `Flutter Intern` &nbsp;·&nbsp; Remote<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Bloc](https://img.shields.io/badge/Bloc-7C3AED?style=flat-square&logo=dart&logoColor=white)<br/>
+*Shipped production apps · Learned real-world Bloc patterns at scale*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**`2021 Origin`**
+
+</td>
+<td align="center">
+
+```
+ ┃
+ ★
+```
+
+</td>
+<td>
+
+**⚡ Self-taught** &nbsp;·&nbsp; `C → Java → Flutter → Cloud`<br/>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![LeetCode](https://img.shields.io/badge/200%2B_LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)<br/>
+*200+ LeetCode · DSA mastery · First principles to production*
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharanitharan305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharanitharan305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8"/>
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharanitharan305&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 
 <br/>
