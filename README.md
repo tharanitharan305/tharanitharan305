@@ -40,12 +40,7 @@ final developer = Developer(
   stateManagement: "Bloc — across every production app",
   cloud: ["Google Cloud APIs", "AWS Rekognition", "Firebase", "Supabase"],
   deployment: ["Vercel", "Google Play Store", "Flutter Web"],
-  tools: [
-    "Google Drive API", "Google Cloud Storage",
-    "AWS Face Rekognition", "Google ML Kit",
-    "AdMob", "AdSense", "Google Maps SDK",
-    "Hive (local DB)", "Bloc", "REST APIs",
-  ],
+  tools: ["Google Drive API", "Google Cloud Storage", "AWS Face Rekognition", "Google ML Kit", "AdMob", "AdSense", "Google Maps SDK", "Hive (local DB)", "Bloc", "REST APIs",],
   strengths: ["DSA", "OOP", "Scalable Architecture", "Real-world Products"],
   currentlyBuilding: "HTML → JSON Rendering Engine",
   openSourcePackages: ["super_string_utils", "tamil_pdf_shaper"],
