@@ -40,7 +40,12 @@ final developer = Developer(
   stateManagement: "Bloc — across every production app",
   cloud: ["Google Cloud APIs", "AWS Rekognition", "Firebase", "Supabase"],
   deployment: ["Vercel", "Google Play Store", "Flutter Web"],
-  tools: ["Google Drive API", "Google Cloud Storage", "AWS Face Rekognition", "Google ML Kit", "AdMob", "AdSense", "Google Maps SDK", "Hive (local DB)", "Bloc", "REST APIs",],
+  tools: [
+    "Google Drive API", "Google Cloud Storage",
+    "AWS Face Rekognition", "Google ML Kit",
+    "AdMob", "AdSense", "Google Maps SDK",
+    "Hive (local DB)", "Bloc", "REST APIs",
+  ],
   strengths: ["DSA", "OOP", "Scalable Architecture", "Real-world Products"],
   currentlyBuilding: "HTML → JSON Rendering Engine",
   openSourcePackages: ["super_string_utils", "tamil_pdf_shaper"],
@@ -201,76 +206,73 @@ final developer = Developer(
 
 <div align="center">
 
-## 🛠️ Tech Stack & Skills
-
-</div>
+## 🛠️ Tech Arsenal
 
 </div>
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-# ⚡ Tech Arsenal
+**`📱 Mobile & UI`**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java&theme=dark" /><br/><br/>
+![Bloc](https://img.shields.io/badge/Bloc-7C3AED?style=flat-square&logo=dart&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive_Local_DB-FF6F00?style=flat-square&logo=apachehive&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 
-## 📱 Mobile & Frontend
+</td>
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java&theme=dark" height="70"/>
+**`⚙️ Backend & APIs`**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" /><br/><br/>
+![REST](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI_Tools-339933?style=flat-square&logo=gnubash&logoColor=white)
 
-<img src="https://img.shields.io/badge/Bloc_State_Management-7C3AED?style=for-the-badge&logo=dart&logoColor=white" height="35"/>
+</td>
+<td align="center" width="33%">
 
----
+**`🗄️ Data & Storage`**
 
-## ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark" /><br/><br/>
+![Drive API](https://img.shields.io/badge/Drive_API-34A853?style=flat-square&logo=googledrive&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive_Offline-FF6F00?style=flat-square&logo=apachehive&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" height="70"/>
+</td>
+</tr>
+<tr>
+<td align="center">
 
----
+**`☁️ Cloud & Deploy`**
 
-## ☁️ Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=gcp,aws,vercel&theme=dark" /><br/><br/>
+![Rekognition](https://img.shields.io/badge/AWS_Rekognition-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=gcp,firebase,supabase,vercel&theme=dark" height="70"/>
+</td>
+<td align="center">
 
-<br/><br/>
+**`🔗 Google APIs`**
 
-<img src="https://img.shields.io/badge/AWS_Rekognition-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="35"/>
+<img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" /><br/><br/>
+![Maps](https://img.shields.io/badge/Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=googleadmob&logoColor=white)
+![AdSense](https://img.shields.io/badge/AdSense-34A853?style=flat-square&logo=google&logoColor=white)
 
----
+</td>
+<td align="center">
 
-## 🗄️ Databases & Storage
+**`🧠 Core & Tools`**
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="70"/>
+<img src="https://skillicons.dev/icons?i=c,git,vscode&theme=dark" /><br/><br/>
+![LeetCode](https://img.shields.io/badge/200%2B_LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA_%26_OOP-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Hive_Local_DB-FF6F00?style=for-the-badge&logo=hive&logoColor=white" height="35"/>
-
----
-
-## 🔗 Google Ecosystem
-
-<img src="https://skillicons.dev/icons?i=google&theme=dark" height="70"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Drive_API-34A853?style=for-the-badge&logo=googledrive&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Maps_SDK-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/AdSense-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
-
----
-
-## 🧠 Core Strength
-
-<img src="https://skillicons.dev/icons?i=c&theme=dark" height="70"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LeetCode_200+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
-
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -348,7 +350,7 @@ final developer = Developer(
 
 ```
  ┃
- ◉
+ ◎
  ┃
 ```
 
@@ -364,7 +366,7 @@ final developer = Developer(
 <tr>
 <td align="center">
 
-**`2021 Origin`**
+**`Origin`**
 
 </td>
 <td align="center">
@@ -378,7 +380,7 @@ final developer = Developer(
 <td>
 
 **⚡ Self-taught** &nbsp;·&nbsp; `C → Java → Flutter → Cloud`<br/>
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![LeetCode](https://img.shields.io/badge/200%2B_LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)<br/>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![LeetCode](https://img.shields.io/badge/200%2B_LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)<br/>
 *200+ LeetCode · DSA mastery · First principles to production*
 
 </td>
@@ -390,7 +392,12 @@ final developer = Developer(
 <div align="center">
 
 ## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharanitharan305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9)](https://github.com/tharanitharan305)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharanitharan305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8)](https://github.com/tharanitharan305)
+
 <br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharanitharan305&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 
 <br/>
