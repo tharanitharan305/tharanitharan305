@@ -207,44 +207,60 @@ final developer = Developer(
 
 <div align="center">
 
-**Mobile & Frontend**
+### ⚡ Tech Stack
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Bloc](https://img.shields.io/badge/Bloc_State_Mgmt-7C3AED?style=for-the-badge&logo=dart&logoColor=white)](https://bloclibrary.dev)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
+---
 
-**Backend & APIs**
+### 📱 Mobile & Frontend
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=46D1FD)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00B4AB)
+![Bloc](https://img.shields.io/badge/Bloc-0d1117?style=for-the-badge&logo=dart&logoColor=8A2BE2)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F89820)
 
-**Cloud & Deployment**
+---
 
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
-[![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/rekognition/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)](https://supabase.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+### ⚙️ Backend & APIs
 
-**Databases & Storage**
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3ECF8E)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![Hive](https://img.shields.io/badge/Hive_(Local_DB)-FF6F00?style=for-the-badge&logo=hive&logoColor=white)](https://pub.dev/packages/hive)
+---
 
-**Google APIs & Services**
+### ☁️ Cloud & Deployment
 
-[![Google ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/ml-kit)
-[![Google Drive API](https://img.shields.io/badge/Drive_API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://developers.google.com/drive)
-[![Google Maps](https://img.shields.io/badge/Maps_SDK-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://developers.google.com/maps)
-[![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleadmob&logoColor=white)](https://admob.google.com)
-[![AdSense](https://img.shields.io/badge/AdSense-4285F4?style=for-the-badge&logo=googleadsense&logoColor=white)](https://adsense.google.com)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![AWS Rekognition](https://img.shields.io/badge/AWS_Rekognition-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
-**Languages & Core**
+---
 
-[![C](https://img.shields.io/badge/C_(DSA%20%26%20Pointers)-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+### 🗄️ Databases & Storage
+
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Hive](https://img.shields.io/badge/Hive-0d1117?style=for-the-badge&logo=hive&logoColor=FF6F00)
+
+---
+
+### 🔗 Google APIs & Services
+
+![ML Kit](https://img.shields.io/badge/ML_Kit-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
+![Drive API](https://img.shields.io/badge/Drive_API-0d1117?style=for-the-badge&logo=googledrive&logoColor=34A853)
+![Google Maps](https://img.shields.io/badge/Maps_SDK-0d1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335)
+![AdMob](https://img.shields.io/badge/AdMob-0d1117?style=for-the-badge&logo=google&logoColor=EA4335)
+![AdSense](https://img.shields.io/badge/AdSense-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
+
+---
+
+### 🧠 Languages & Core
+
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+
+</div>
 
 </div>
 
