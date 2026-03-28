@@ -42,7 +42,7 @@ final developer = Developer(
   deployment: ["Vercel", "Google Play Store", "Flutter Web"],
   tools: [ "Google Drive API", "Google Cloud Storage", "AWS Face Rekognition", "Google ML Kit", "AdMob", "AdSense", "Google Maps SDK", "Hive (local DB)", "Bloc", "REST APIs"],
   strengths: ["DSA", "OOP", "Scalable Architecture", "Real-world Products"],
-  currentlyBuilding: "HTML → JSON Rendering Engine",
+  currentlyBuilding: "HTML,CSS → Dart Rendering Engine",
   openSourcePackages: ["super_string_utils", "tamil_pdf_shaper"],
   openSource: true,
 );
