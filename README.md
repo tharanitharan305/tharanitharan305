@@ -287,7 +287,8 @@ final developer = Developer(
 <td width="78%">
 
 **🟣 Blended Pedagogy** &nbsp;·&nbsp; `Software Developer` &nbsp;·&nbsp; Coimbatore<br/>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-7C3AED?style=flat-square&logo=dart&logoColor=white) ![Full-Stack](https://img.shields.io/badge/Full--Stack-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-7C3AED?style=flat-square&logo=dart&logoColor=white) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+  [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)<br/>
 *Building production Flutter apps · Full-stack product ownership*
 
 </td>
